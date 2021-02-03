@@ -1,0 +1,59 @@
+body{
+	background-color:  #141E30;
+	font-family: Arial;
+	}
+header {
+	color: white;
+	font-size: 15px;
+	text-align: center;
+}
+.div2,
+.div1{
+	text-align: left;
+	color: white;
+	padding: 100px;
+	background-color: #2d446e;
+	
+
+}
+.sd {
+  font-family: Helvetica;
+  color: rgba(255, 255, 255, 0.4);
+  float: left;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: capitalize;
+  
+  
+}
+.h11{
+	font-size: 40px;
+}
+.end {
+	background-color: #03173b;
+	color:white;
+	padding:1px;
+	
+}
+.html {
+	text-transform: capitalize;
+}
+.t4,
+.t1,
+.t2,
+.t3 {
+	padding: 10px;
+	float: left;
+}
+p {
+	color:white;
+}
+.csssource{
+	color: white;
+}
+.lastparagraph {
+	text-align: left;
+	color: white;
+	padding: 80px;
+	background-color: #2d446e;
+}
