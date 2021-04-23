@@ -6,23 +6,33 @@ header {
 	color: white;
 	font-size: 15px;
 	text-align: center;
+	 
 }
-.div2,
+
 .div1{
 	text-align: left;
 	color: white;
 	padding: 100px;
-	background-color: #2d446e;
-	
-
+	background-color:#2d446e;
 }
+.div2{
+	text-align:left ;
+	padding: 100px;
+	background-color:#2d446e;
+	color:white;
+}
+.test {
+	color:whitesmoke;
+}
+
 .sd {
-  font-family: Helvetica;
+  font-family: Arial;
   color: rgba(255, 255, 255, 0.4);
   float: left;
-  font-size: 14px;
+  font-size: 12px;
   padding-left: 10px;
   text-transform: capitalize;
+  background-color: #141E30;
   
   
 }
@@ -50,10 +60,11 @@ p {
 }
 .csssource{
 	color: white;
+	
 }
 .lastparagraph {
 	text-align: left;
 	color: white;
-	padding: 80px;
+	padding: 100px;
 	background-color: #2d446e;
 }
